@@ -5,8 +5,7 @@
 This project is a simple drum kit featuring seven buttons. 
 Each button is labeled with a letter, and when clicked, it plays a corresponding drum sound.
 
-
-
+![ScreenRecording2024-10-29at11 17 07AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0f87661f-120c-43ba-87d5-e54ec735dae9)
 
 ### How to Use
 
