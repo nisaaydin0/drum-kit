@@ -12,4 +12,4 @@ Each button is labeled with a letter, and when clicked, it plays a corresponding
 1. Open the drum kit project in your browser.
 2. Click on any of the seven buttons to play a drum sound.
 
-Enjoy creating beats with your very own drum kit!
+Enjoy creating beats!!
